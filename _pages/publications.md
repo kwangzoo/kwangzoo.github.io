@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - Publications"
+title: "K. Chung - Publications"
 layout: gridlay
-excerpt: "Sanders Lab -- Publications."
+excerpt: "K. Chung -- Publications."
 sitemap: false
 permalink: /publications/
 ---
