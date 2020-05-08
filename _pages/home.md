@@ -1,7 +1,7 @@
 ---
-title: "Kwangzoo Chung"
+title: "K. Chung"
 layout: homelay
-excerpt: "Kwangzoo Chung"
+excerpt: "K. Chung"
 sitemap: false
 permalink: /
 ---
