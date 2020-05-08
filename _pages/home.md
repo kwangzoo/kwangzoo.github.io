@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-# K. Chung
+# Kwangzoo Chung
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/IMG_1217.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
