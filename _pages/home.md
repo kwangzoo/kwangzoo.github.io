@@ -6,8 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/IMG_1217.png){: style="width: 300px; float: left;margin-right: 20px; border: 10px"}
-
 # Kwangzoo Chung
 
 <br/><br/>
@@ -15,6 +13,7 @@ permalink: /
 
 Under construction.
 
+![]({{ site.url }}{{ site.baseurl }}/images/IMG_1217.png){: style="width: 300px; float: left;margin-right: 20px; border: 10px"}
 
 
 
