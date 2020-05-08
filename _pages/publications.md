@@ -52,7 +52,7 @@ permalink: /publications/
 <div>
 ## Full List
 
-For a full list, please go to <a class="regtext" href="https://scholar.google.com/citations?user=_QXhLrUAAAAJ&hl">Google Scholar</a> or <a class="regtext" href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Kwangzoo+Chung%5BAuthor%5D">Pubmed</a>.
+For a full list, please go to <a class="regtext" href="https://scholar.google.com/citations?user=_QXhLrUAAAAJ&hl">Google Scholar</a>.
 <br><br><br>
 
 </div>
