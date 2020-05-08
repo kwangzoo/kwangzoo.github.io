@@ -8,7 +8,8 @@ permalink: /
 
 # Kwangzoo Chung
 
-![]({{ site.url }}{{ site.baseurl }}/images/IMG_1217.png){: style="width: 300px; float: left;margin-right: 20px; border: 10px"}
+![IMG_1217]({{ site.url }}{{ site.baseurl }}/images/IMG_1217.png){: style="width: 300px; float: left;margin-right: 20px; border: 10px"}
+
 <br/><br/>
 
 
