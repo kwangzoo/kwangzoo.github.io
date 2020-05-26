@@ -13,6 +13,8 @@ Clinical Associate Professor
 Department of Radiation Oncology
 <br/>
 Samsung Medical Center
+<br/>
+Seoul, Republic of Korea
 <br/><br/>
 Ph.D in Physics, Carnegie Mellon University, 2008
 <br/>
